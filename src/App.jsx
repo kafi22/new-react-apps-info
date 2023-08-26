@@ -1,6 +1,6 @@
 
 import React from "react";
-import {Box} from "@mui/material"
+import {Box, Container} from "@mui/material"
 import Hero from "./Component/Hero";
 import Projects from "./Component/Projects";
 
@@ -8,11 +8,13 @@ import Projects from "./Component/Projects";
 const Apps = () => {
 
   return (
+    <Container>
     <Box component={"div"} >
 
       <Hero />
       <Projects />
     </Box>
+    </Container>
   )
 }
 

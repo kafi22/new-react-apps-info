@@ -1,8 +1,10 @@
+import { Box } from '@mui/material'
 import React from 'react'
 
 const Projects = () => {
   return (
-    <div>Projects</div>
+    
+    <Box>Projects</Box>
   )
 }
 
