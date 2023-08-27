@@ -5,7 +5,7 @@ import { useState, useEffect } from "react";
 const client = createClient({
     space : "wtcl7wrmugbl",
     environment : "master",
-    accessToken : "m9ifd7SvePa62x_jdQwfI_JbKU3sdCp1xQbbpUrdlhk"
+    accessToken : "1BQLESOOtjQ-WOtGkHvNeYSmbog06NUJ7N3_bYA0EAg"
 
 });
 

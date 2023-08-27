@@ -11,7 +11,7 @@ const Apps = () => {
     <Container>
     <Box component={"div"} >
       <Hero />
-      <Projects  />
+      <Projects />
     </Box>
     </Container>
   )
