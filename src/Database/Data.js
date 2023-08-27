@@ -42,4 +42,6 @@ const Data = [
         image : img5,
         offer : ""
     }, 
-]
+];
+
+export default Data;
